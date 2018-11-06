@@ -70,6 +70,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitbucketStronglyTypedCoreR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicsCRMCoreReceiver", "samples\DynamicsCRMCoreReceiver\DynamicsCRMCoreReceiver.csproj", "{BD13F7E7-B016-478F-AD54-8F875553806B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomSender.Sender", "samples\CustomSender\CustomSender.Sender\CustomSender.Sender.csproj", "{AD13F7E7-B016-478F-AD54-8F875553801A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomSender.Receiver", "samples\CustomSender\CustomSender.Receiver\CustomSender.Receiver.csproj", "{CD13F7E7-B016-478F-AD54-8F875553801B}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailChimpCoreReceiver", "samples\MailChimpCoreReceiver\MailChimpCoreReceiver.csproj", "{4563A906-6FAB-46E7-B281-C88A391EE48A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PusherCoreReceiver", "samples\PusherCoreReceiver\PusherCoreReceiver.csproj", "{C7E3E4AA-39A8-46FB-B36D-837DEE69CE18}"
